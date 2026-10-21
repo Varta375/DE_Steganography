@@ -45,7 +45,7 @@ Options:
 
     WITH -r:
     DE_Method.py read -i image_de.png -m image_de_map.txt -r -l 13
-    Decoded message: Decoded message: ('Hello world!', 'image_de_restored.png')
+    Decoded message: ('Hello world!', 'image_de_restored.png')
 
     WITHOUT -r:
     DE_Method.py read -i image_de.png -m image_de_map.txt -l 13   
